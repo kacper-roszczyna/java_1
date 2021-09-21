@@ -1,4 +1,4 @@
-package pl.roszczyna.teaching.objects;
+package pl.roszczyna.teaching.objects.studio;
 
 public class Author {
     private String firstName;

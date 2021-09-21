@@ -1,4 +1,4 @@
-package pl.roszczyna.teaching.objects;
+package pl.roszczyna.teaching.objects.studio;
 
 import java.net.URL;
 import java.time.LocalDate;

@@ -1,7 +1,6 @@
-package pl.roszczyna.teaching.objects.authorv2;
+package pl.roszczyna.teaching.objects.studio.authorv2;
 
-import pl.roszczyna.teaching.objects.Song;
-import pl.roszczyna.teaching.objects.Version;
+import pl.roszczyna.teaching.objects.studio.Version;
 
 public class MusicAuthor extends Author {
 

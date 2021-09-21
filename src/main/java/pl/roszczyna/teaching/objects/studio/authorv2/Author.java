@@ -1,4 +1,4 @@
-package pl.roszczyna.teaching.objects.authorv2;
+package pl.roszczyna.teaching.objects.studio.authorv2;
 
 public abstract class Author implements Creative {
 

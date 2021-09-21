@@ -64,6 +64,12 @@ class Loops3Test {
             assertEquals(List.of(1, 3), res);
         }
 
+        @Test
+        @DisplayName("Then for 3 return list containing 1, 3")
+        public void thenOnThree2() {
+            var res = divisorFinder.findDivisors(100000000);
+        }
+
     }
 
 }
